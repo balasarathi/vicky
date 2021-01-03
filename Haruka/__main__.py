@@ -22,18 +22,7 @@ from haruka.modules.connection import connected
 
 PM_START =
 
-
-❤❣   (>‿◠)✌   ❤❣
-
-Hello {}, MY NAME IS {} !
-
-I AM A FUNNIEST BUT STRICT GROUP MANAGER BOT
-To Donate us Hit /donate
-You can get Support Here [Support Group](t.me/@vickyorflowerbotsupport)
-
-Click /help or Help button below to find out more about, how to use me to my full potential.
-
-
+Hello! My name Is ()!
 You know how hard it is sometimes to manage group so here is the solution for you
 
 I'm group manager bot and Anti-spam for RR Players🃏

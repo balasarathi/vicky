@@ -28,4 +28,4 @@ wikipedia
 bleach
 markdown2
 $  git clone https://github.com/heroku/python-getting-started.git
-cd python-getting-started
+$  cd python-getting-started

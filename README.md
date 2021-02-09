@@ -2,7 +2,7 @@
 A bot to manage groups
 an modular groupmanager bot                   
 A modular telegram Python bot running on python3 with an sqlalchemy database
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbalasarathi%2Fvicky)
+
 
 
 Originally a simple group management bot with multiple admin features, it has evolved into becoming a basis for modular
